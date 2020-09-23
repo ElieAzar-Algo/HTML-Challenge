@@ -1,0 +1,90 @@
+
+body{
+    background-color: rgba(14, 60, 66, 0.931);
+    margin-top: auto;
+}   
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    width: 74%;
+    text-align:center;
+    margin-left:15%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 9px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    
+  }
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+.global-logo {
+
+    background-color: rgba(14, 84, 90, 0.931);
+    position: relative;
+    float: left;
+    left:15%
+    }
+
+    .main-menu p{
+        color:white;
+        margin-left:16%;    
+
+    }
+    .main-menu h3{
+        color:white;
+        margin-left:16%;    
+
+    }
+    .main-menu-ul{
+        color: white;
+        margin-left:13%;
+    }
+    .Gallery{
+        margin-left: 35%;
+      position: relative;
+      top: -450px;
+      color: white;
+    }
+    .other-services
+    {
+        margin-left: 62%;
+      position: relative;
+      top: -715px;
+      color: white;
+    }
+    #Btn-left{
+        background-color: rgb(170, 166, 166);
+        padding: 1%;
+    }
+    #Btn-right{
+        background-color: rgb(170, 166, 166);
+        padding: 1%;
+    }
+    .bb{
+        width: 872px;
+        margin-left: 18%;
+        position: relative;
+        top: -600px;
+        color: rgb(253, 214, 214);
+    }     
+    .MMM{
+        height:200px;
+    }
+    footer{
+
+        margin-bottom: 50%;
+    }
